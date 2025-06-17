@@ -1,0 +1,230 @@
+{
+  "llama_analysis": {
+    "pillar_summary": {
+      "total_pillars": 14,
+      "arrangement": "along-wall",
+      "average_spacing_ft": 9.5,
+      "confidence": 0.9
+    },
+    "pillars": [
+      {
+        "id": "P1",
+        "pixel_location": [
+          94,
+          108
+        ],
+        "bounding_radius_px": 8.0,
+        "approx_world_location_ft": [
+          10.44,
+          12.0
+        ],
+        "nearest_room_label": "Recreational Area",
+        "distance_to_nearest_pillar_ft": 10.2,
+        "notes": "on wall"
+      },
+      {
+        "id": "P2",
+        "pixel_location": [
+          185,
+          78
+        ],
+        "bounding_radius_px": 7.0,
+        "approx_world_location_ft": [
+          20.56,
+          8.67
+        ],
+        "nearest_room_label": "Conference Room",
+        "distance_to_nearest_pillar_ft": 8.5,
+        "notes": "on wall"
+      },
+      {
+        "id": "P3",
+        "pixel_location": [
+          335,
+          53
+        ],
+        "bounding_radius_px": 8.0,
+        "approx_world_location_ft": [
+          37.22,
+          5.89
+        ],
+        "nearest_room_label": "Balcony",
+        "distance_to_nearest_pillar_ft": 11.1,
+        "notes": "on wall"
+      },
+      {
+        "id": "P4",
+        "pixel_location": [
+          518,
+          51
+        ],
+        "bounding_radius_px": 8.0,
+        "approx_world_location_ft": [
+          57.56,
+          5.67
+        ],
+        "nearest_room_label": "Meeting Room",
+        "distance_to_nearest_pillar_ft": 9.8,
+        "notes": "on wall"
+      },
+      {
+        "id": "P5",
+        "pixel_location": [
+          646,
+          102
+        ],
+        "bounding_radius_px": 7.0,
+        "approx_world_location_ft": [
+          71.78,
+          11.33
+        ],
+        "nearest_room_label": "Balcony",
+        "distance_to_nearest_pillar_ft": 10.5,
+        "notes": "on wall"
+      },
+      {
+        "id": "P6",
+        "pixel_location": [
+          643,
+          244
+        ],
+        "bounding_radius_px": 7.0,
+        "approx_world_location_ft": [
+          71.44,
+          27.11
+        ],
+        "nearest_room_label": "Collab/Cafeteria Zone",
+        "distance_to_nearest_pillar_ft": 8.2,
+        "notes": "on wall"
+      },
+      {
+        "id": "P7",
+        "pixel_location": [
+          518,
+          305
+        ],
+        "bounding_radius_px": 8.0,
+        "approx_world_location_ft": [
+          57.55,
+          33.89
+        ],
+        "nearest_room_label": "Staircase Block",
+        "distance_to_nearest_pillar_ft": 9.5,
+        "notes": "on wall"
+      },
+      {
+        "id": "P8",
+        "pixel_location": [
+          336,
+          348
+        ],
+        "bounding_radius_px": 8.0,
+        "approx_world_location_ft": [
+          37.33,
+          38.67
+        ],
+        "nearest_room_label": "Staircase Block",
+        "distance_to_nearest_pillar_ft": 10.8,
+        "notes": "on wall"
+      },
+      {
+        "id": "P9",
+        "pixel_location": [
+          183,
+          395
+        ],
+        "bounding_radius_px": 7.0,
+        "approx_world_location_ft": [
+          20.33,
+          43.89
+        ],
+        "nearest_room_label": "Recreational Area",
+        "distance_to_nearest_pillar_ft": 9.2,
+        "notes": "on wall"
+      },
+      {
+        "id": "P10",
+        "pixel_location": [
+          93,
+          442
+        ],
+        "bounding_radius_px": 8.0,
+        "approx_world_location_ft": [
+          10.33,
+          49.11
+        ],
+        "nearest_room_label": "Recreational Area",
+        "distance_to_nearest_pillar_ft": 8.8,
+        "notes": "on wall"
+      },
+      {
+        "id": "P11",
+        "pixel_location": [
+          398,
+          224
+        ],
+        "bounding_radius_px": 7.0,
+        "approx_world_location_ft": [
+          44.22,
+          24.89
+        ],
+        "nearest_room_label": "Work Stations",
+        "distance_to_nearest_pillar_ft": 7.5,
+        "notes": "within room interior"
+      },
+      {
+        "id": "P12",
+        "pixel_location": [
+          470,
+          210
+        ],
+        "bounding_radius_px": 7.0,
+        "approx_world_location_ft": [
+          52.22,
+          23.33
+        ],
+        "nearest_room_label": "Work Stations",
+        "distance_to_nearest_pillar_ft": 8.1,
+        "notes": "within room interior"
+      },
+      {
+        "id": "P13",
+        "pixel_location": [
+          538,
+          164
+        ],
+        "bounding_radius_px": 7.0,
+        "approx_world_location_ft": [
+          59.78,
+          18.22
+        ],
+        "nearest_room_label": "Work Stations",
+        "distance_to_nearest_pillar_ft": 7.9,
+        "notes": "within room interior"
+      },
+      {
+        "id": "P14",
+        "pixel_location": [
+          601,
+          118
+        ],
+        "bounding_radius_px": 7.0,
+        "approx_world_location_ft": [
+          66.78,
+          13.11
+        ],
+        "nearest_room_label": "Work Stations",
+        "distance_to_nearest_pillar_ft": -1.0,
+        "notes": "within room interior"
+      }
+    ],
+    "diagnostics": {
+      "scale_found": true,
+      "assumptions": [
+        "scale assumed to be 1/8''=1'"
+      ],
+      "confidence": 0.9
+    }
+  },
+  "local_pillars": []
+}
