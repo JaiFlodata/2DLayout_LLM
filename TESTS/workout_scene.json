@@ -1,0 +1,45 @@
+{
+  "overview": "Two men are standing in an office space, appearing to exchange something.",
+  "detailed_description": "The scene shows two men in an office setting. The man on the left is wearing a black T-shirt, greenish-brown pants, and sneakers. The man on the right is wearing a white T-shirt, black pants, and dark shoes. They are standing near a table with what appears to be a wrapped object in their hands. There is an office chair and another piece of furniture behind them. The office has white walls, a light-colored floor, and there are doors and what seems to be a server room or storage area on the left.",
+  "activity_location": {
+    "pillar_reference": "between P11 and P12",
+    "approx_pixel_on_layout": [
+      475,
+      325
+    ],
+    "nearest_pillar": null
+  },
+  "objects": [
+    {
+      "id": "O1",
+      "label": "person",
+      "bbox_px": [
+        100,
+        100,
+        200,
+        300
+      ],
+      "attributes": {
+        "clothing": "black T-shirt, greenish-brown pants, sneakers",
+        "pose_action": "standing, holding an object"
+      }
+    },
+    {
+      "id": "O2",
+      "label": "person",
+      "bbox_px": [
+        350,
+        150,
+        250,
+        350
+      ],
+      "attributes": {
+        "clothing": "white T-shirt, black pants, dark shoes",
+        "pose_action": "standing, holding an object"
+      }
+    }
+  ],
+  "diagnostics": {
+    "confidence": 0.85
+  }
+}
